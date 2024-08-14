@@ -55,5 +55,3 @@ The Airline Backend System is designed to provide a robust and maintainable back
 To set up and run this project, clone the repository and follow the installation instructions in the each folder README.md file.
 
 ---
-
-This README provides an overview of the Airline Backend System, outlining its key features and requirements.
