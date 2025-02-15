@@ -46,7 +46,6 @@ The Airline Backend System is designed to provide a robust and maintainable back
 - **Flight Reviews**: Users can review flights post-travel, with a star rating and comment system.
   - Reviews are displayed alongside flight listings.
 - **Notifications**: Users receive email notifications for various events such as flight delays and online check-in reminders.
-- **Discount Coupons**: Users can apply coupons for discounts during the booking process.
 - **Multiple Seat Reservation**: Users can reserve more than one seat under a single login.
 
 ## Non-Functional Requirements
